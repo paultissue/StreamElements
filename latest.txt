@@ -1,1 +1,1 @@
-Contents of "https://raw.githubusercontent.com/paultissue/StreamElements/main/latest.txtTest": This is a test.
+"https://raw.githubusercontent.com/paultissue/StreamElements/main/latest.txt". This is a test!
