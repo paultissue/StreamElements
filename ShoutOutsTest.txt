@@ -1,3 +1,5 @@
 !silver
 !gold
 !bitcoin
+!weather Seattle
+!math 1/2+5*13^2
