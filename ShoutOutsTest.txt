@@ -1,3 +1,3 @@
 !command add !ao 📢 The Angry Oregonian 🇺🇸 | 🔗 https://www.youtube.com/@theangryoregonian1776 | 💸 https://cash.app/$theangryoregonian | 💸 https://account.venmo.com/u/theangryoregonian
-!command options !ao -level moderator -type say
+!command options !ao -level 500 -type say
 !alias add !ao !angry
