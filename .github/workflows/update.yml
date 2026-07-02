@@ -11,16 +11,24 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch and Clean
+      - name: Debug and Fetch
         run: |
-          # Fetch JSON, extract the 'content' field, strip HTML, truncate to 200 chars
-          curl -s "https://ix.cnn.io/data/truth-social/truth_archive.json" | \
-          jq -r '.[0].content' | \
-          sed 's/<[^>]*>//g' | \
-          cut -c 1-200 > latest.txt
+          # Download the data
+          curl -s "https://ix.cnn.io/data/truth-social/truth_archive.json" > data.json
+          
+          # Print the first 200 characters to the log so we can see the format
+          echo "--- JSON PREVIEW ---"
+          head -c 200 data.json
+          echo -e "\n--- END PREVIEW ---"
+          
+          # Attempt to grab the first item and its keys
+          echo "--- AVAILABLE KEYS ---"
+          jq -r '.[0] | keys' data.json
+          echo -e "\n--- END KEYS ---"
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update latest truth" && git push)
+          git add data.json
+          git commit -m "Update debug data" || echo "No changes"
+          git push
