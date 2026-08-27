@@ -1,9 +1,9 @@
 {
   "ab": "ℹ️ If it has an apple 🍎, it has a banana 🍌!",
-  "cs": "📢 Chris Sims 🇺🇸 | 📺 https://www.youtube.com/@chrisxsims | 💬 https://x.com/ChrisxSims | 💸 https://cash.app/$chrisxsims"
-  "dr": "📢 Danny Rebel 🇺🇸 | 📺 https://www.youtube.com/@DannyRebel333 | 💬 https://x.com/DannyRebel333 | 💸 https://account.venmo.com/u/dannyrebel33"
+  "cs": "📢 Chris Sims 🇺🇸 | 📺 https://www.youtube.com/@chrisxsims | 💬 https://x.com/ChrisxSims | 💸 https://cash.app/$chrisxsims",
+  "dr": "📢 Danny Rebel 🇺🇸 | 📺 https://www.youtube.com/@DannyRebel333 | 💬 https://x.com/DannyRebel333 | 💸 https://account.venmo.com/u/dannyrebel33",
   "likes": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
-  "mb": "📢 Mr. Bill 🇺🇸 | 📺 https://www.youtube.com/@onlyamrbill | 💬 https://x.com/onlyamrbill | 🔗 https://linktr.ee/onlyamrbill"
+  "mb": "📢 Mr. Bill 🇺🇸 | 📺 https://www.youtube.com/@onlyamrbill | 💬 https://x.com/onlyamrbill | 🔗 https://linktr.ee/onlyamrbill",
   "search": "🔍 Querying for: $(query)",
   "shoutout": "📢 Check out ${1}! They were playing ${2:}!",
   "status": "✅ Status check verified: You are authorized!",
