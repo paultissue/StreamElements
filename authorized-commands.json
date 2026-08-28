@@ -12,7 +12,7 @@
   "spam": "⚠️ To keep the conversation readable, please refrain from repetitive posts, excessive capitalization, and emoji spam. Failure to follow these guidelines may lead to chat privileges being revoked.",
   "sub": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, set Notifications to All 🔔, and Super Chat 💵 | Thank you!",
   "subx": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, and set Notifications to All 🔔 | Thank you!",
-  "tech": "⚠️ We are experiencing technical difficulties — please stand by.",
+  "tech": "⚠️ We are experiencing technical difficulties.  Please stand by... ⚠️",
   // general commands with argument(s)
   "likes": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
   "so": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
