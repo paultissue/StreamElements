@@ -1,13 +1,16 @@
 {
-  "status": "✅ Status check verified: You are authorized!",
   "usage": "ℹ️ ​Usage: !cmd <command_name> [args]",
+  "status": "✅ Status check verified: You are authorized!",
+  // cmds w/ args
   "likes": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
   "subs": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
   "watchers": "👀 $(1) Watching 👀 ...Let's Goooo! 🇺🇸",
+  // misc shout-outs
   "gs": "📢 Ginger Shepherd 🇺🇸 | 📺 https://www.youtube.com/@gingershepherd9659 | 💬 https://x.com/GingerGail72 | 💸 https://cash.app/$GingerGail420",
   "pp": "📢 Paranormal Poly 🇺🇸 | 📺 https://www.youtube.com/@paranormalpoly1 | 💬 https://x.com/Polybiusxx",
   "td": "📢 TwiztdDooBie 🇺🇸 | 📺 https://www.youtube.com/@twiztdDooB | 💸 https://cash.app/$twiztiddoobie1989 | 🎶 https://www.youtube.com/@twiztdDooB/shorts",
   "xx": "📢 XX 🇺🇸 | 📺 https://www.youtube.com/@ | 💬 https://x.com/ | 💸 https://cash.app/$ | 🔗 https://linktr.ee/ | ✉ mailto:",
+  // standard shout-outs
   "aa": "📢 Apostate Ari / The Transphobic Historian 🇺🇸 | 📺 https://www.youtube.com/@ApostateAri | 💬 https://x.com/ApostateAri | 🔗 https://linktr.ee/transphobichistorian",
   "aa$": "💸 Support Ari with Cash App! | 💸 https://cash.app/$AriDetrans | Thank you!",
   "af": "📢 Adam Francisco 🇺🇸 | 📺 https://www.youtube.com/@AdamFrancisco | 💬 https://x.com/adamfrancisco_",
