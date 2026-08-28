@@ -2,7 +2,7 @@
   "usage": "ℹ️ ​Usage: !cmd <command_name> [args]",
   "status": "✅ Status check verified: You are authorized!",
   // general cmds with no args
-  "sub": "ℹ️ Support this channel! | Thumbs Up 👍, Subscribe 🔔, Super Chat 💵, and Donate 💸| Thank you!",
+  "sub": "ℹ️ Support this channel! | Thumbs Up 👍, Subscribe 🔔, Super Chat 💵, and Donate 💸 | Thank you!",
   // general cmds w/ args
   "likes": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
   "subs": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
