@@ -36,7 +36,10 @@
   // Streamer Shout-out Commands
   "aa": "📢 Apostate Ari / The Transphobic Historian 🇺🇸 | 📺 https://www.youtube.com/@ApostateAri | 💬 https://x.com/ApostateAri | 🔗 https://linktr.ee/transphobichistorian",
   "aa$": "💸 Support Ari with Cash App! | 💸 https://cash.app/$AriDetrans | Thank you!",
-  "af": "📢 Adam Francisco 🇺🇸 | 📺 https://www.youtube.com/@AdamFrancisco | 💬 https://x.com/adamfrancisco_",
+  "af": {
+    "response": "📢 Adam Francisco 🇺🇸 | 📺 https://www.youtube.com/@AdamFrancisco | 💬 https://x.com/adamfrancisco_",
+    "aliases": ["adam"],
+  },
   "ao": "📢 The Angry Oregonian 🇺🇸 | 📺 https://www.youtube.com/@theangryoregonian1776 | 💸 https://cash.app/$theangryoregonian | 💸 https://account.venmo.com/u/theangryoregonian",
   "ao2": "📢 The Angry Oregonian (More) 🇺🇸 | 📺 https://www.youtube.com/@doggonahogg3607 | 🎶 https://suno.com/@biggdoggsofftheporch",
   "bcp": "📢 TheBCPreacher (BCP) 🇺🇸 | 📺 https://www.youtube.com/@TheBCPreacher | 💬 https://x.com/thebcpreacher | 🔗 https://linktr.ee/thebcpreacher",
