@@ -15,7 +15,10 @@
   "tech": "⚠️ We are experiencing Technical Difficulties. Please stand by... ⚠️",
   // general commands with argument(s)
   "likes": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
-  "so": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
+  "so": {
+    "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
+    "aliases": ["shoutout"],
+  },
   "subs": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
   "watchers": "👀 $(1) Watching 👀 ...Let's Goooo! 🇺🇸",
   // standard shout-outs
