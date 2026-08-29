@@ -7,7 +7,7 @@
     "aliases": ["list", "docs", "help", "?"]
   },
   "users": {
-    "response": "🤖 Authorized Users for !cmd - 📃 User will be presented with a URL showing the latest authroized users",
+    "response": "🤖 Authorized Users for !cmd - 📃 User will be presented with a URL showing the latest authorized users",
     "aliases": ["auth"]
   },
   // General Commands
