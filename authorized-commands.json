@@ -2,6 +2,15 @@
   // !cmd specfic commands
   "usage": "ℹ️ ​Usage: !cmd <command_name> [args]",
   "status": "✅ Status check verified: You are authorized!",
+  // built-in
+  "commands": {
+    "response": "🤖 Commands for !cmd | 📃 User will be presented with a URL showing the latest commands",
+    "aliases": ["list", "docs", "help", "?"]
+  },
+  "users": {
+    "response": "🤖 Authorized Users for !cmd | 📃 User will be presented with a URL showing the latest authroized users",
+    "aliases": ["auth"]
+  }  
   // general commands with no argument(s)
   "cg": "ℹ️ YouTube Community Guidelines | 🔗 https://support.google.com/youtube/answer/9288567",
   "hs": "ℹ️ YouTube Hate Speech Policy | 🔗 https://support.google.com/youtube/answer/2801939",
