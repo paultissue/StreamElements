@@ -1,17 +1,17 @@
 {
-  // General Commands
+  // Usage
   "usage": "ℹ️ ​Usage: !cmd <command_name> [args]",
-  "status": "✅ Status check verified: You are authorized!",
-  //Built-in Commands
+  // Built-in Commands
   "commands": {
-    "response": "🤖 Commands for !cmd | 📃 User will be presented with a URL showing the latest commands",
+    "response": "🤖 Commands for !cmd - 📃 User will be presented with a URL showing the latest commands",
     "aliases": ["list", "docs", "help", "?"]
   },
   "users": {
-    "response": "🤖 Authorized Users for !cmd | 📃 User will be presented with a URL showing the latest authroized users",
+    "response": "🤖 Authorized Users for !cmd - 📃 User will be presented with a URL showing the latest authroized users",
     "aliases": ["auth"]
   },
   // General Commands
+  "status": "✅ Status check verified: You are authorized!",  
   "cg": "ℹ️ YouTube Community Guidelines | 🔗 https://support.google.com/youtube/answer/9288567",
   "hs": "ℹ️ YouTube Hate Speech Policy | 🔗 https://support.google.com/youtube/answer/2801939",
   "fu": "ℹ️ This video uses fair use for the purpose of criticism, commentary, satire, news reporting, teaching, education, and research. Thank you for your attention to this matter...",
@@ -25,7 +25,7 @@
   "sub": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, set Notifications to All 🔔, and Super Chat 💵 | Thank you!",
   "subx": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, and set Notifications to All 🔔 | Thank you!",
   "tech": "⚠️ We are experiencing Technical Difficulties. Please stand by... ⚠️",
-  // General Commands with Argument(s)
+  // General Commands requiring Argument(s)
   "likes": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
   "so": {
     "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
