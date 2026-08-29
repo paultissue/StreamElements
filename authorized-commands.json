@@ -1,24 +1,39 @@
 {
-  // !cmd specfic commands
+  // Usage
   "usage": "ℹ️ ​Usage: !cmd <command_name> [args]",
-  "status": "✅ Status check verified: You are authorized!",
-  // general commands with no argument(s)
+  // Built-in Commands
+  "commands": {
+    "response": "🤖 Commands for !cmd - 📃 User will be presented with a URL showing the latest commands",
+    "aliases": ["list", "docs", "help", "?"]
+  },
+  "users": {
+    "response": "🤖 Authorized Users for !cmd - 📃 User will be presented with a URL showing the latest authorized users",
+    "aliases": ["auth"]
+  },
+  // General Commands
+  "status": "✅ Status check verified: You are authorized!",  
   "cg": "ℹ️ YouTube Community Guidelines | 🔗 https://support.google.com/youtube/answer/9288567",
   "hs": "ℹ️ YouTube Hate Speech Policy | 🔗 https://support.google.com/youtube/answer/2801939",
   "fu": "ℹ️ This video uses fair use for the purpose of criticism, commentary, satire, news reporting, teaching, education, and research. Thank you for your attention to this matter...",
-  "muted": "🔇 Sound MUTED for PRIVACY and/or SECURITY. Please stand by... 🔇",
+  "muted": {
+    "response": "🔇 Sound MUTED for PRIVACY and/or SECURITY. Please stand by... 🔇",
+    "aliases": ["priv"]
+  },
   "respect": "⚠️ Please be respectful to others in this chat. Those determined to be disruptive are subject to timeouts or permanent removal from the chat.",
   "share": "↗️ Share this stream and channel with friends and family and on social media everywhere! | Thank you!",
   "spam": "⚠️ To keep the conversation readable, please refrain from repetitive posts, excessive capitalization, and emoji spam. Failure to follow these guidelines may lead to chat privileges being revoked.",
   "sub": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, set Notifications to All 🔔, and Super Chat 💵 | Thank you!",
   "subx": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, and set Notifications to All 🔔 | Thank you!",
   "tech": "⚠️ We are experiencing Technical Difficulties. Please stand by... ⚠️",
-  // general commands with argument(s)
+  // General Commands requiring Argument(s)
   "likes": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
-  "so": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
+  "so": {
+    "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
+    "aliases": ["shoutout", "promo"]
+  },
   "subs": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
   "watchers": "👀 $(1) Watching 👀 ...Let's Goooo! 🇺🇸",
-  // standard shout-outs
+  // Streamer Shout-out Commands
   "aa": "📢 Apostate Ari / The Transphobic Historian 🇺🇸 | 📺 https://www.youtube.com/@ApostateAri | 💬 https://x.com/ApostateAri | 🔗 https://linktr.ee/transphobichistorian",
   "aa$": "💸 Support Ari with Cash App! | 💸 https://cash.app/$AriDetrans | Thank you!",
   "af": "📢 Adam Francisco 🇺🇸 | 📺 https://www.youtube.com/@AdamFrancisco | 💬 https://x.com/adamfrancisco_",
@@ -83,10 +98,10 @@
   "uc$": "💸 Support Unscripted Chronicles (PJ) 🇺🇸 | 💸 https://www.paypal.me/pjg713 | ☕ https://buymeacoffee.com/unscriptedchronicles | 🛒 https://www.amazon.com/registries/gl/guest-view/19UYGN5F55FIW",
   "zx": "📢 Zak X 🇺🇸 | 📺 https://www.youtube.com/@zakxdrift | 💬 https://x.com/GDaddyzs | 🔗 https://lnk.bio/TherealZakX | ✉ mailto:ZakXMedia@proton.me",
   "zx$": "💸 Support Zak X 🇺🇸 | 💸 https://cash.app/$TherealZakX | 💸 https://account.venmo.com/u/TherealZakX | 💸 https://www.paypal.com/paypalme/thezakx | 💸 https://www.patreon.com/cw/ZakXXX",
-  // misc shout-outs
+  // Misc Shout-out Commands
   "gs": "📢 Ginger Shepherd 🇺🇸 | 📺 https://www.youtube.com/@gingershepherd9659 | 💬 https://x.com/GingerGail72 | 💸 https://cash.app/$GingerGail420",
   "pp": "📢 Paranormal Poly 🇺🇸 | 📺 https://www.youtube.com/@paranormalpoly1 | 💬 https://x.com/Polybiusxx",
   "td": "📢 TwiztdDooBie 🇺🇸 | 📺 https://www.youtube.com/@twiztdDooB | 💸 https://cash.app/$twiztiddoobie1989 | 🎶 https://www.youtube.com/@twiztdDooB/shorts",
-  // shout-out template
+  // Shout-out Template
   "xx": "📢 XX 🇺🇸 | 📺 https://www.youtube.com/@ | 💬 https://x.com/ | 💸 https://cash.app/$ | 🔗 https://linktr.ee/ | ✉ mailto:"
 }
