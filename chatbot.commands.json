@@ -50,9 +50,9 @@
     "response": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, Set Notifications to All 🔔, and Super Chat 💵 | Thank you!",
     "aliases": ["subscribe", "support"]
   },
-  "subxx": {
+  "subx": {
     "response": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, and Set Notifications to All 🔔 | Thank you!",
-    "aliases": ["subx", "subscribex", "supportx"]
+    "aliases": ["subscribex", "supportx"]
   },
   "t": {
     "response": "⚠️ We are experiencing Technical Difficulties. Please stand by... ⚠️",
