@@ -5,38 +5,38 @@
     "aliases": ["syntax"]
   },
   // Built-in Commands
-  "commands": {
+  "c": {
     "response": "🤖 Commands for !cmd - 📃 User will be presented with a URL showing the latest commands",
-    "aliases": ["list", "docs", "help", "?"]
+    "aliases": ["commands", "list", "docs", "help", "?"]
   },
-  "users": {
+  "u": {
     "response": "🤖 Authorized Users for !cmd - 📃 User will be presented with a URL showing the latest authorized users",
-    "aliases": ["auth"]
+    "aliases": ["users", "auth"]
   },
   // General Commands
-  "status": {
+  "s": {
     "response": "✅ Status check verified: You are authorized!",
-    "aliases": ["verify", "acccess"]
+    "aliases": ["status", "verify", "acccess"]
   },
-  "cg": {
+  "g": {
     "response": "ℹ️ YouTube Community Guidelines | 🔗 https://support.google.com/youtube/answer/9288567",
-    "aliases": ["guidelines", "guide"]
+    "aliases": ["cg", "guidelines", "guide"]
   },
-  "hs": {
+  "h": {
     "response": "ℹ️ YouTube Hate Speech Policy | 🔗 https://support.google.com/youtube/answer/2801939",
-    "aliases": ["hate", "speech"]
+    "aliases": ["hs", "hate", "speech"]
   },
-  "fu": {
+  "f": {
     "response": "ℹ️ This video uses fair use for the purpose of criticism, commentary, satire, news reporting, teaching, education, and research. Thank you for your attention to this matter...",
-    "aliases": ["fairuse", "fair"]
+    "aliases": ["fu", "fairuse", "fair"]
   },
-  "muted": {
+  "m": {
     "response": "🔇 Sound MUTED for PRIVACY and/or SECURITY. Please stand by... 🔇",
-    "aliases": ["priv"]
+    "aliases": ["muted", "mute", "priv"]
   },
-  "respect": {
+  "r": {
     "response": "⚠️ Please be respectful to others in this chat. Those determined to be disruptive are subject to timeouts or permanent removal from the chat.",
-    "aliases": [""]
+    "aliases": ["respect"]
   },
   "share": {
     "response": "↗️ Share this stream and channel with friends and family and on social media everywhere! | Thank you!",
@@ -50,30 +50,30 @@
     "response": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, Set Notifications to All 🔔, and Super Chat 💵 | Thank you!",
     "aliases": ["subscribe", "support"]
   },
-  "subx": {
+  "subxx": {
     "response": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, and Set Notifications to All 🔔 | Thank you!",
-    "aliases": ["subscribex", "supportx"]
+    "aliases": ["subx", "subscribex", "supportx"]
   },
-  "tech": {
+  "t": {
     "response": "⚠️ We are experiencing Technical Difficulties. Please stand by... ⚠️",
-    "aliases": ["issue", "buffer", "buffering"]
+    "aliases": ["tech", "issue", "buffer", "buffering"]
   },
   // General Commands requiring Argument(s)
-  "likes": {
+  "l": {
     "response": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
-    "aliases": [""]
+    "aliases": ["likes"]
   },
   "so": {
     "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
     "aliases": ["shoutout", "promo"]
   },
-  "subs": {
+  "s": {
     "response": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
-    "aliases": ["subscribers"]
+    "aliases": ["sub", "subscribers"]
   },
-  "watchers": {
+  "w": {
     "response": "👀 $(1) Watching 👀 ...Let's Goooo! 🇺🇸",
-    "aliases": ["watching"]
+    "aliases": ["watchers", "watching"]
   },
   // Streamer Shout-out Commands
   "aa": {
