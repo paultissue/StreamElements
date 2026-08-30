@@ -81,7 +81,7 @@
     "aliases": ["ari"]
   },
   "aa$": {
-    "response": "💸 Support Ari with Cash App! | 💸 https://cash.app/$AriDetrans | Thank you!",
+    "response": "💸 Support Apostate Ari / The Transphobic Historian 🇺🇸 | 💸 https://cash.app/$AriDetrans | Thank you!",
     "aliases": ["ari$"]
   },
   "af": {
@@ -164,6 +164,10 @@
     "response": "📢 Haley Reports 🇺🇸 | 📺 https://www.youtube.com/@HaleyReports | 💬 https://x.com/HaleyReports | 💸 https://cash.app/$BasedPdx",
     "aliases": ["haley"]
   },
+  "hr$": {
+    "response": "💸 Support Haley Reports 🇺🇸 | 💸 https://cash.app/$BasedPdx | Thank you!",
+    "aliases": ["haley$"]
+  },  
   "ht": {
     "response": "📢 Our World Live - Hoot Troop 🦉 🇺🇸 | 📺 https://www.youtube.com/@Hoot_Troop | 💬 https://x.com/Hoot_Troop | 🔗 https://linktr.ee/hoot_troop",
     "aliases": ["hoot"]
@@ -205,7 +209,7 @@
     "aliases": [""]
   },
   "mb$": {
-    "response": "💸 Support Mr. Bill 🇺🇸 | 💸 https://cash.app/$onlyamrbill | 💸 https://venmo.com/u/onlyamrbill | 💸 https://www.paypal.com/paypalme/onlyamrbill  | Thank you!",
+    "response": "💸 Support Mr. Bill 🇺🇸 | 💸 https://cash.app/$onlyamrbill | 💸 https://venmo.com/u/onlyamrbill | 💸 https://www.paypal.com/paypalme/onlyamrbill | Thank you!",
     "aliases": [""]
   },
   "mb2": {
@@ -253,7 +257,7 @@
     "aliases": ["nico", "nicooregon"]
   },
   "no$": {
-    "response": "💸 Support Nico Oregon  🇺🇸 | 💸 https://www.givesendgo.com/NicoOrego2026n | 🛒 https://www.amazon.com/hz/wishlist/ls/2A3X4IAQ71LF6 | Thank you!",
+    "response": "💸 Support Nico Oregon 🇺🇸 | 💸 https://www.givesendgo.com/NicoOrego2026n | 🛒 https://www.amazon.com/hz/wishlist/ls/2A3X4IAQ71LF6 | Thank you!",
     "aliases": ["nico$", "nicooregon$"]
   },
   "ns": {
@@ -297,7 +301,7 @@
     "aliases": ["tix"]
   },
   "rt$": {
-    "response": "💸 Support rawtactix (Josh) 🇺🇸 | 💸 https://cash.app/$irock777 | 🛒 https://www.amazon.com/hz/wishlist/ls/2ZX70T9QHAQZ1  | Thank you!",
+    "response": "💸 Support rawtactix (Josh) 🇺🇸 | 💸 https://cash.app/$irock777 | 🛒 https://www.amazon.com/hz/wishlist/ls/2ZX70T9QHAQZ1 | Thank you!",
     "aliases": ["tix$"]
   },
   "sav": {
@@ -317,7 +321,7 @@
     "aliases": ["tommy"]
   },
   "tb$": {
-    "response": "💸 Support Tommy Boi 🇺🇸 | 💸 https://cash.app/$brakebred4209 | 💸 https://account.venmo.com/u/Tommyboi4209 | 💸 https://www.paypal.com/paypalme/tommyboifreedom31 | Thank you!",
+    "response": "💸 Tommy Boi 🇺🇸 | 💸 https://cash.app/$brakebred4209 | 💸 https://account.venmo.com/u/Tommyboi4209 | 💸 https://www.paypal.com/paypalme/tommyboifreedom31 | Thank you!",
     "aliases": ["tommy$"]
   },
   "tt": {
@@ -333,7 +337,7 @@
     "aliases": ["un2", "pj2"]
   },
   "uc$": {
-    "response": "💸 Support Unscripted Chronicles (PJ) 🇺🇸 | 💸 https://www.paypal.me/pjg713 | ☕ https://buymeacoffee.com/unscriptedchronicles | 🛒 https://www.amazon.com/registries/gl/guest-view/19UYGN5F55FIW",
+    "response": "💸  Unscripted Chronicles (PJ) 🇺🇸 | 💸 https://www.paypal.me/pjg713 | ☕ https://buymeacoffee.com/unscriptedchronicles | 🛒 https://www.amazon.com/registries/gl/guest-view/19UYGN5F55FIW",
     "aliases": ["un$", "pj$"]
   },
   "zx": {
@@ -341,7 +345,7 @@
     "aliases": ["zak"]
   },
   "zx$": {
-    "response": "💸 Support Zak X 🇺🇸 | 💸 https://cash.app/$TherealZakX | 💸 https://account.venmo.com/u/TherealZakX | 💸 https://www.paypal.com/paypalme/thezakx | 💸 https://www.patreon.com/cw/ZakXXX | Thank you!",
+    "response": "💸 Zak X 🇺🇸 | 💸 https://cash.app/$TherealZakX | 💸 https://account.venmo.com/u/TherealZakX | 💸 https://www.paypal.com/paypalme/thezakx | 💸 https://www.patreon.com/cw/ZakXXX | Thank you!",
     "aliases": ["zak$"]
   },
   // Misc Shout-out Commands
