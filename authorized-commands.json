@@ -2,7 +2,7 @@
   // Usage
   "usage": {
     "response": "ℹ️ ​Usage: !cmd <command_name> [args]",
-    "aliases": [""]
+    "aliases": ["syntax"]
   },
   // Built-in Commands
   "commands": {
