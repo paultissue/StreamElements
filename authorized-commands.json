@@ -326,11 +326,15 @@
   },
   "uc": {
     "response": "📢 Unscripted Chronicles (PJ) 🇺🇸 | 📺 https://www.youtube.com/@unscripted-1437 | 💬 https://x.com/Pjsjourney82 | 🔗 https://linktr.ee/Unscriptedchronicles82",
-    "aliases": ["un"]
+    "aliases": ["un", "pj"]
+  },
+  "uc2": {
+    "response": "📢 Unscripted Chronicles (PJ) (More) 🇺🇸 | 📺 https://www.twitch.tv/unscriptedchronicles | 📺 https://rumble.com/user/Lightingthewayhome | 💬 https://www.facebook.com/Pjsjourney2change | 💸 https://www.paypal.me/pjg713",
+    "aliases": ["un2", "pj2"]
   },
   "uc$": {
     "response": "💸 Support Unscripted Chronicles (PJ) 🇺🇸 | 💸 https://www.paypal.me/pjg713 | ☕ https://buymeacoffee.com/unscriptedchronicles | 🛒 https://www.amazon.com/registries/gl/guest-view/19UYGN5F55FIW",
-    "aliases": ["un$"]
+    "aliases": ["un$", "pj$"]
   },
   "zx": {
     "response": "📢 Zak X 🇺🇸 | 📺 https://www.youtube.com/@zakxdrift | 💬 https://x.com/GDaddyzs | 🔗 https://lnk.bio/TherealZakX | ✉ mailto:ZakXMedia@proton.me",
