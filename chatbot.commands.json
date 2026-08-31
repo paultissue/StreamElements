@@ -66,13 +66,13 @@
     "response": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
     "aliases": ["likes"]
   },
+  "p": {
+    "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
+    "aliases": ["promo", "so", "shoutout"]
+  },  
   "s": {
     "response": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
     "aliases": ["subs", "subscribers"]
-  },
-  "so": {
-    "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
-    "aliases": ["shoutout", "promo"]
   },
   "w": {
     "response": "👀 $(1) Watching 👀 ...Let's Goooo! 🇺🇸",
