@@ -36,9 +36,9 @@
     "response": "⚠️ Please be respectful to others in this chat. Those determined to be disruptive are subject to timeouts or permanent removal from the chat.",
     "aliases": ["respect"]
   },
-  "s": {
+  "status": {
     "response": "✅ Status check verified: You are authorized!",
-    "aliases": ["status", "verify", "acccess"]
+    "aliases": ["verify", "acccess"]
   },
   "share": {
     "response": "↗️ Share this stream and channel with friends and family and on social media everywhere! | Thank you!",
@@ -68,7 +68,7 @@
   },
   "s": {
     "response": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
-    "aliases": ["sub", "subscribers"]
+    "aliases": ["subs", "subscribers"]
   },
   "so": {
     "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
