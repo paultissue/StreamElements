@@ -4,6 +4,7 @@
     "response": "ℹ️ ​Usage: !cmd <command_name> [args]",
     "aliases": ["syntax"]
   },
+
   // Built-in Commands
   "c": {
     "response": "🤖 Commands for !cmd - 📃 User will be presented with a URL showing the latest commands",
@@ -13,10 +14,11 @@
     "response": "🤖 Authorized Users for !cmd - 📃 User will be presented with a URL showing the latest authorized users",
     "aliases": ["users", "auth"]
   },
+
   // General Commands
-  "s": {
-    "response": "✅ Status check verified: You are authorized!",
-    "aliases": ["status", "verify", "acccess"]
+  "f": {
+    "response": "ℹ️ This video uses fair use for the purpose of criticism, commentary, satire, news reporting, teaching, education, and research. Thank you for your attention to this matter...",
+    "aliases": ["fu", "fairuse", "fair"]
   },
   "g": {
     "response": "ℹ️ YouTube Community Guidelines | 🔗 https://support.google.com/youtube/answer/9288567",
@@ -26,10 +28,6 @@
     "response": "ℹ️ YouTube Hate Speech Policy | 🔗 https://support.google.com/youtube/answer/2801939",
     "aliases": ["hs", "hate", "speech"]
   },
-  "f": {
-    "response": "ℹ️ This video uses fair use for the purpose of criticism, commentary, satire, news reporting, teaching, education, and research. Thank you for your attention to this matter...",
-    "aliases": ["fu", "fairuse", "fair"]
-  },
   "m": {
     "response": "🔇 Sound MUTED for PRIVACY and/or SECURITY. Please stand by... 🔇",
     "aliases": ["muted", "mute", "priv"]
@@ -37,6 +35,10 @@
   "r": {
     "response": "⚠️ Please be respectful to others in this chat. Those determined to be disruptive are subject to timeouts or permanent removal from the chat.",
     "aliases": ["respect"]
+  },
+  "s": {
+    "response": "✅ Status check verified: You are authorized!",
+    "aliases": ["status", "verify", "acccess"]
   },
   "share": {
     "response": "↗️ Share this stream and channel with friends and family and on social media everywhere! | Thank you!",
@@ -58,23 +60,25 @@
     "response": "⚠️ We are experiencing Technical Difficulties. Please stand by... ⚠️",
     "aliases": ["tech", "issue", "buffer", "buffering"]
   },
+
   // General Commands requiring Argument(s)
   "l": {
     "response": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
     "aliases": ["likes"]
   },
-  "so": {
-    "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
-    "aliases": ["shoutout", "promo"]
-  },
   "s": {
     "response": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
     "aliases": ["sub", "subscribers"]
+  },
+  "so": {
+    "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
+    "aliases": ["shoutout", "promo"]
   },
   "w": {
     "response": "👀 $(1) Watching 👀 ...Let's Goooo! 🇺🇸",
     "aliases": ["watchers", "watching"]
   },
+
   // Streamer Shout-out Commands
   "aa": {
     "response": "📢 Apostate Ari / The Transphobic Historian 🇺🇸 | 📺 https://www.youtube.com/@ApostateAri | 💬 https://x.com/ApostateAri | 🔗 https://linktr.ee/transphobichistorian",
@@ -167,7 +171,7 @@
   "dretsy$": {
     "response": "🛒 Support Danny Rebel's on his Etsy store! 🇺🇸 | 🛒 https://www.etsy.com/shop/Americana47",
     "aliases": ["dannyetsy$", "dannyrebeletsy$"]
-  },  
+  },
   "drk": {
     "response": "📺 Follow Danny Rebel on Kick! 🇺🇸 | 📺 https://kick.com/dannyrebel33",
     "aliases": ["dannyk", "dannyrebelk"]
@@ -346,7 +350,7 @@
   },
   "ra": {
     "response": "📢 Rhein Amacher 🇺🇸 | 📺 https://www.youtube.com/@RheinAmacher | 💬 https://x.com/RheinAmacher",
-    "aliases": ["rhein", "rheinamacher","amacher","ra$", "ra2"]
+    "aliases": ["rhein", "rheinamacher", "amacher", "ra$", "ra2"]
   },
   "rc": {
     "response": "📢 Rider Chronicles (Ryan) 🇺🇸 | 📺 https://www.youtube.com/@RIDERCHRONICLES | 💬 https://x.com/RiderChronic | 💸 https://cash.app/Riderchronicles",
@@ -408,6 +412,7 @@
     "response": "💸 Support Zak X 🇺🇸 | 💸 https://cash.app/TherealZakX | 💸 https://account.venmo.com/u/TherealZakX | 💸 https://www.paypal.com/paypalme/thezakx | 💸 https://www.patreon.com/cw/ZakXXX | Thank you!",
     "aliases": ["zak$", "zakx$"]
   },
+
   // Misc Shout-out Commands
   "gs": {
     "response": "📢 Ginger Shepherd 🇺🇸 | 📺 https://www.youtube.com/@gingershepherd9659 | 💬 https://x.com/GingerGail72 | 💸 https://cash.app/GingerGail420",
@@ -428,7 +433,8 @@
   "ym": {
     "response": "📢 Your Mom 🇺🇸 | 💬 https://x.com/Yourmom_5977",
     "aliases": ["yourmom", "ym$", "ym2"]
-  },  
+  },
+
   // Shout-out Template
   "xx": {
     "response": "📢 XX 🇺🇸 | 📺 https://www.youtube.com/@ | 💬 https://x.com/ | 💸 https://cash.app/ | 🔗 https://linktr.ee/ | ✉ mailto:",
