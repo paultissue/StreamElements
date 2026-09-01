@@ -258,8 +258,12 @@
   },
   "kf": {
     "response": "📢 King Fixxser 🇺🇸 | 📺 https://www.youtube.com/@kingfixxser | 💬 https://x.com/Fixxser | 💸 https://cash.app/KingFixxser",
-    "aliases": ["king", "kf2", "kf$"]
+    "aliases": ["king", "fixxser", "kf2"]
   },
+  "kf$": {
+    "response": "💸 Support King Fixxser 🇺🇸 | 💸 https://cash.app/$KingFixxser | 🤲 https://www.givesendgo.com/help-king-fixxser-with-medical-bills-and",
+    "aliases": ["king$", "fixxser$"]
+  },  
   "kt": {
     "response": "📢 Klymatix TV 🇺🇸 | 📺 https://www.youtube.com/@KlymatixTV | 💬 https://x.com/KlymatixTV | 📺 https://rumble.com/user/KlymatixTV | 📺 https://www.twitch.tv/KlymatixTV",
     "aliases": ["kly", "ktv", "klymatix", "klymatixtv", "kt2", "kt$", "kt2"]
