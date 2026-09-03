@@ -6,8 +6,8 @@
 @RawTactixIRL
 
 // YouTube Channels - Nightbot
-@Unscripted-1437
 @Hoot_Troop
+@Unscripted-1437
 
 // Kick Channels
 @PaulTissue
