@@ -8,8 +8,7 @@
 @RawTactixIRL
 @OnlyaMrBill
 @PolyBiusxx
-
-@thesandtiger
+@TheSandTiger
 
 // Kick Users
 
