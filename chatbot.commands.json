@@ -42,7 +42,7 @@
   },  
   "st": {
     "response": "✅ Status check verified: You are authorized!",
-    "aliases": ["status", "verify", "acccess"]
+    "aliases": ["status", "verify", "access"]
   },
   "sub": {
     "response": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, Set Notifications to All 🔔, and Super Chat 💵 | Thank you!",
@@ -266,7 +266,7 @@
   },  
   "kt": {
     "response": "📢 Klymatix TV 🇺🇸 | 📺 https://www.youtube.com/@KlymatixTV | 💬 https://x.com/KlymatixTV | 📺 https://rumble.com/user/KlymatixTV | 📺 https://www.twitch.tv/KlymatixTV",
-    "aliases": ["kly", "ktv", "klymatix", "klymatixtv", "kt2", "kt$", "kt2"]
+    "aliases": ["kly", "ktv", "klymatix", "klymatixtv", "kt2", "kt$"]
   },
   "lh": {
     "response": "📢 Liberty Hangout / Kaitlin Bennett 🇺🇸 | 📺 https://www.youtube.com/@LibertyHangout | 💬 https://x.com/kaitmarieox | 🔗 https://libertyhangout.org",
