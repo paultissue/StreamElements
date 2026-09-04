@@ -8,6 +8,7 @@
 // YouTube Channels - Nightbot
 @Hoot_Troop
 @Unscripted-1437
+@TheAngryOregonian1776
 
 // Kick Channels
 @PaulTissue
