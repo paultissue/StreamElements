@@ -32,9 +32,9 @@
     "response": "⚠️ Please be respectful to others in this chat. Those determined to be disruptive are subject to timeouts or permanent removal from the chat.",
     "aliases": ["respect"]
   },
-  "sh": {
+  "share": {
     "response": "↗️ Share this stream and channel with friends and family and on social media everywhere! | Thank you!",
-    "aliases": ["share", "stream"]
+    "aliases": ["stream"]
   },
   "sp": {
     "response": "⚠️ To keep the conversation readable, please refrain from repetitive posts, excessive capitalization, and emoji spam. Failure to follow these guidelines may lead to chat privileges being revoked.",
@@ -384,9 +384,9 @@
     "response": "💸 Support rawtactix (Josh) 🇺🇸 | 💸 https://cash.app/irock777 | 🛒 https://www.amazon.com/hz/wishlist/ls/2ZX70T9QHAQZ1 | Thank you!",
     "aliases": ["tix$", "rawtactix$", "joshmeshell$", "josh$"]
   },
-  "sav": {
+  "sh": {
     "response": "📢 Sav Says / Savanah Hernandez 🇺🇸 | 📺 https://www.youtube.com/@SavSays | 💬 https://x.com/savsays | 🔗 https://linktr.ee/savsays",
-    "aliases": ["sh", "savsays", "savanah", "savanahhernandez", "sav2", "sav$"]
+    "aliases": ["sav", "savsays", "savanah", "savanahhernandez", "sh2", "sh$"]
   },
   "sortor": {
     "response": "📢 Nick Sortor 🇺🇸 | 📺 https://www.youtube.com/@realNickSortor | 💬 https://x.com/nicksortor | 🔗 https://linktr.ee/nicksortor",
