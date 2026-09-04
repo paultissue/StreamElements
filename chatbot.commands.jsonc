@@ -246,7 +246,7 @@
   },
   "iq$": {
     "response": "💸 Support Lady Patriot / Ice Queen 🇺🇸 | 💸 https://cash.app/LadyA1776 | Thank you!",
-    "aliases": ["lady$", "ladya", "lp$", "tammy$", "ice$", "queen$"]
+    "aliases": ["lady$", "ladya$", "lp$", "tammy$", "ice$", "queen$"]
   },
   "ir": {
     "response": "📢 Marissa Meshell 🇺🇸 | 📺 https://www.youtube.com/@Irock0788 | 💬 https://x.com/Irock175 | 💸 https://cash.app/irock777 | 🛒 https://www.amazon.com/hz/wishlist/ls/2ZX70T9QHAQZ1",
@@ -453,7 +453,7 @@
 
   // Shout-out Template
   "xx": {
-    "response": "📢 XX 🇺🇸 | 📺 https://www.youtube.com/@ | 💬 https://x.com/ | 💸 https://cash.app/ | 🔗 https://linktr.ee/ | ✉ mailto:",
+    "response": "📢 XX 🇺🇸 | 📺 https://www.youtube.com/@MyChannel | 💬 https://x.com/MyX | 💸 https://cash.app/MyCahsApp | 🔗 https://linktr.ee/MyLinkTree | ✉ mailto:MyAddress@MyMailbox.com",
     "aliases": ["xx2", "xx$"]
   }
 }
