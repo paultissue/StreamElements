@@ -39,7 +39,7 @@
   "sp": {
     "response": "⚠️ To keep the conversation readable, please refrain from repetitive posts, excessive capitalization, and emoji spam. Failure to follow these guidelines may lead to chat privileges being revoked.",
     "aliases": ["spam"]
-  },  
+  },
   "st": {
     "response": "✅ Status check verified: You are authorized!",
     "aliases": ["status", "verify", "access"]
@@ -65,7 +65,7 @@
   "p": {
     "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
     "aliases": ["promo", "promote", "so", "shout", "shoutout"]
-  },  
+  },
   "s": {
     "response": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
     "aliases": ["subs", "subscribers"]
@@ -412,13 +412,13 @@
     "response": "📢 Unscripted Chronicles (PJ) 🇺🇸 | 📺 https://www.youtube.com/@unscripted-1437 | 💬 https://x.com/Pjsjourney82 | 🔗 https://linktr.ee/Unscriptedchronicles82",
     "aliases": ["un", "pj", "unscripted"]
   },
-  "uc2": {
-    "response": "📣 Unscripted Chronicles (PJ) (More) 🇺🇸 | 📺 https://www.twitch.tv/unscriptedchronicles | 📺 https://rumble.com/user/Lightingthewayhome | 💬 https://www.facebook.com/Pjsjourney2change | Thank you!",
-    "aliases": ["un2", "pj2", "unscripted2"]
-  },
   "uc$": {
     "response": "💸 Support Unscripted Chronicles 🇺🇸 | 💸 https://www.paypal.me/pjg713 | ☕ https://buymeacoffee.com/unscriptedchronicles | 🛒 https://www.amazon.com/registries/gl/guest-view/19UYGN5F55FIW | Thanks!",
     "aliases": ["un$", "pj$", "unscripted$"]
+  },
+  "uc2": {
+    "response": "📣 Unscripted Chronicles (PJ) (More) 🇺🇸 | 📺 https://www.twitch.tv/unscriptedchronicles | 📺 https://rumble.com/user/Lightingthewayhome | 💬 https://www.facebook.com/Pjsjourney2change | Thank you!",
+    "aliases": ["un2", "pj2", "unscripted2"]
   },
   "zx": {
     "response": "📢 Zak X 🇺🇸 | 📺 https://www.youtube.com/@zakxdrift | 💬 https://x.com/GDaddyzs | 🔗 https://lnk.bio/TherealZakX | ✉ mailto:ZakXMedia@proton.me",
