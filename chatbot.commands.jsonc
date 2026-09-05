@@ -39,7 +39,7 @@
   "sp": {
     "response": "⚠️ To keep the conversation readable, please refrain from repetitive posts, excessive capitalization, and emoji spam. Failure to follow these guidelines may lead to chat privileges being revoked.",
     "aliases": ["spam"]
-  },  
+  },
   "st": {
     "response": "✅ Status check verified: You are authorized!",
     "aliases": ["status", "verify", "access"]
@@ -65,7 +65,7 @@
   "p": {
     "response": "📢 Go follow $(1) | 📺 https://www.youtube.com/$(1)",
     "aliases": ["promo", "promote", "so", "shout", "shoutout"]
-  },  
+  },
   "s": {
     "response": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
     "aliases": ["subs", "subscribers"]
@@ -171,10 +171,6 @@
   "dr2": {
     "response": "📣 Danny Rebel (More) 🇺🇸 | 📺 https://kick.com/dannyrebel33 | 💬 https://www.instagram.com/dannyrebel_33 | 💬 https://www.facebook.com/danny.rebel.77 | 🎶 https://suno.com/@dannyrebel",
     "aliases": ["danny2", "dannyrebel2"]
-  },  
-  "dretsy$": {
-    "response": "🛒 Support Danny Rebel's on his Etsy store! 🇺🇸 | 🛒 https://www.etsy.com/shop/Americana47 | Thank you!",
-    "aliases": ["dannyetsy$", "dannyrebeletsy$"]
   },
   "drk": {
     "response": "📺 Follow Danny Rebel on Kick! 🇺🇸 | 📺 https://kick.com/dannyrebel33",
@@ -183,6 +179,10 @@
   "drs": {
     "response": "🎶 Follow Danny Rebel on Suno! 🇺🇸 | 🎶 https://suno.com/@dannyrebel",
     "aliases": ["dannys", "dannyrebels"]
+  },
+  "dretsy$": {
+    "response": "🛒 Support Danny Rebel's on his Etsy store! 🇺🇸 | 🛒 https://www.etsy.com/shop/Americana47 | Thank you!",
+    "aliases": ["dannyetsy$", "dannyrebeletsy$"]
   },
   "drstore$": {
     "response": "🛒 Support Danny Rebel on his Vrosh Glass Store! 🇺🇸 | 🛒 https://vroshglass.com | Thank you!",
@@ -235,7 +235,7 @@
   "ht2": {
     "response": "📣 Our World Live - Hoot Troop (More) 🦉 🇺🇸 | 📺 https://rumble.com/c/OurWorldLive | 📺 https://www.bitchute.com/ourworldlive | 🔗 https://linktr.ee/hoot_troop",
     "aliases": ["hoot2", "hooty2", "owl2"]
-  },  
+  },
   "ht2$": {
     "response": "💸 Support Our World Live - Hoot Troop 🦉 🇺🇸 | 💸 https://streamlabs.com/hoot_troop/tip | 🔗 https://linktr.ee/hoot_troop | Thank you!",
     "aliases": ["hoot2$", "hooty2$", "owl2$"]
@@ -271,7 +271,7 @@
   "kf$": {
     "response": "💸 Support King Fixxser 🇺🇸 | 💸 https://cash.app/KingFixxser | 🤲 https://www.givesendgo.com/help-king-fixxser-with-medical-bills-and | Thank you!",
     "aliases": ["king$", "fixxser$"]
-  },  
+  },
   "kt": {
     "response": "📢 Klymatix TV 🇺🇸 | 📺 https://www.youtube.com/@KlymatixTV | 💬 https://x.com/KlymatixTV | 📺 https://rumble.com/user/KlymatixTV | 📺 https://www.twitch.tv/KlymatixTV",
     "aliases": ["kly", "ktv", "klymatix", "klymatixtv", "kt2", "kt$"]
@@ -295,7 +295,7 @@
   "mb2": {
     "response": "📣 Mr. Bill (More) 🇺🇸 | 📺 https://kick.com/onlyamrbill | 💬 https://www.facebook.com/profile.php?id=61561551778527 | 💬 https://www.instagram.com/onlyamrbill",
     "aliases": ["bill2", "mrbill2"]
-  },  
+  },
   "mbfb": {
     "response": "💬 Follow Mr. Bill on Facebook! 🇺🇸 | 💬 https://www.facebook.com/profile.php?id=61561551778527",
     "aliases": ["billfb", "mrbillfb"]
@@ -307,6 +307,10 @@
   "mblt": {
     "response": "🔗 Mr. Bill on Linktr.ee! 🇺🇸 | 🔗 https://linktr.ee/onlyamrbill",
     "aliases": ["billt", "mrbilllt"]
+  },
+  "mbm": {
+    "response": "📢 Manny bein Manny 🇺🇸 | 📺 https://www.youtube.com/@MannyBeinManny | 💬 https://x.com/MannyBeinManny | 💸 https://link.me/manny_bein_manny",
+    "aliases": ["manny", "mbm2", "mbm$"]
   },
   "mbr": {
     "response": "📺 Follow Mr. Bill on Rumble! 🇺🇸 | 📺 https://rumble.com/user/onlyamrbill",
@@ -323,10 +327,6 @@
   "mbyt": {
     "response": "📺 Follow Mr. Bill on YouTube! 🇺🇸 | 📺 https://www.youtube.com/@onlyamrbill",
     "aliases": ["billyt", "mrbillyt"]
-  },
-  "mbm": {
-    "response": "📢 Manny bein Manny 🇺🇸 | 📺 https://www.youtube.com/@MannyBeinManny | 💬 https://x.com/MannyBeinManny | 💸 https://link.me/manny_bein_manny",
-    "aliases": ["manny", "mbm2", "mbm$"]
   },
   "mdg": {
     "response": "📢 MDGgamin 🇺🇸 | 📺 https://www.youtube.com/@MDGgamin | 💬 https://x.com/JonahRHammond | 📺 https://rumble.com/MDGgamin | 📺 https://www.twitch.tv/MDGgamin",
@@ -405,55 +405,135 @@
     "aliases": ["tommy$", "tommyboi$"]
   },
   "tt": {
-    "response": "📢 Tinkerton 🇺🇸 | 📺 https://www.youtube.com/@the1Tinkerton | 💬 https://x.com/Tinkertonpdx | 💸 https://cash.app/T1nk3rt0n",
-    "aliases": ["tink", "tinkerton", "tt2", "tt$"]
-  },
-  "uc": {
-    "response": "📢 Unscripted Chronicles (PJ) 🇺🇸 | 📺 https://www.youtube.com/@unscripted-1437 | 💬 https://x.com/Pjsjourney82 | 🔗 https://linktr.ee/Unscriptedchronicles82",
-    "aliases": ["un", "pj", "unscripted"]
-  },
-  "uc$": {
-    "response": "💸 Support Unscripted Chronicles 🇺🇸 | 💸 https://www.paypal.me/pjg713 | ☕ https://buymeacoffee.com/unscriptedchronicles | 🛒 https://www.amazon.com/registries/gl/guest-view/19UYGN5F55FIW | Thanks!",
-    "aliases": ["un$", "pj$", "unscripted$"]
-  },
-  "uc2": {
-    "response": "📣 Unscripted Chronicles (PJ) (More) 🇺🇸 | 📺 https://www.twitch.tv/unscriptedchronicles | 📺 https://rumble.com/user/Lightingthewayhome | 💬 https://www.facebook.com/Pjsjourney2change | Thank you!",
-    "aliases": ["un2", "pj2", "unscripted2"]
-  },
-  "zx": {
-    "response": "📢 Zak X 🇺🇸 | 📺 https://www.youtube.com/@zakxdrift | 💬 https://x.com/GDaddyzs | 🔗 https://lnk.bio/TherealZakX | ✉ mailto:ZakXMedia@proton.me",
-    "aliases": ["zak", "zakx", "zakx2"]
-  },
-  "zx$": {
-    "response": "💸 Support Zak X 🇺🇸 | 💸 https://cash.app/TherealZakX | 💸 https://account.venmo.com/u/TherealZakX | 💸 https://www.paypal.com/paypalme/thezakx | 💸 https://www.patreon.com/cw/ZakXXX | Thank you!",
-    "aliases": ["zak$", "zakx$"]
+    "response": "📢 Tinkerton 🇺🇸 | 📺 https://www.youtube.com/@the1Tinkerton | 💬 https://x.com/Tinkertonpdx | ```jsonc
+{
+  // Usage
+  "usage": {
+    "response": "ℹ️ ​Usage: !cmd <command_name> [args]",
+    "aliases": ["syntax"]
   },
 
-  // Misc Shout-out Commands
-  "gs": {
-    "response": "📢 Ginger Shepherd 🇺🇸 | 📺 https://www.youtube.com/@GingerAndCarey | 💬 https://x.com/GingerGail72 | 💸 https://cash.app/GingerGail420",
-    "aliases": ["ginger", "gingersheperd", "sheperd", "gs2", "gs$"]
-  },
-  "jj": {
-    "response": "📢 Jeannie / Nothing to see here! 🇨🇦 | 📺 https://www.youtube.com/@jeannie24 | 💬 https://x.com/Jeannies532115 | 💸 https://www.paypal.com/paypalme/jakeandjeannie",
-    "aliases": ["jeannie", "jj2", "jj$"]
-  },
-  "pp": {
-    "response": "📢 Paranormal Poly 🇺🇸 | 📺 https://www.youtube.com/@paranormalpoly1 | 💬 https://x.com/Polybiusxx",
-    "aliases": ["poly", "pb", "pp2", "pp$"]
-  },
-  "td": {
-    "response": "📢 TwiztdDooBie 🇺🇸 | 📺 https://www.youtube.com/@twiztdDooB | 💸 https://cash.app/twiztiddoobie1989 | 🎶 https://www.youtube.com/@twiztdDooB/shorts",
-    "aliases": ["twiz", "twix", "twitztd", "twiztddoob", "td2", "td$"]
-  },
-  "ym": {
-    "response": "📢 Your Mom 🇺🇸 | 💬 https://x.com/Yourmom_5977",
-    "aliases": ["yourmom", "ym2", "ym$"]
+  // Built-in Commands
+  "c": {
+    "response": "🤖 Commands for !cmd - 📃 User will be presented with a URL showing the latest commands",
+    "aliases": ["cmds", "commands", "list", "docs", "help", "?"]
   },
 
-  // Shout-out Template
-  "xx": {
-    "response": "📢 XX 🇺🇸 | 📺 https://www.youtube.com/@MyChannel | 💬 https://x.com/MyX | 💸 https://cash.app/MyCashApp | 🔗 https://linktr.ee/MyLinkTree | ✉ mailto:MyAddress@MyMailbox.com",
-    "aliases": ["xx2", "xx$"]
-  }
-}
+  // General Commands
+  "f": {
+    "response": "ℹ️ This video uses fair use for the purpose of criticism, commentary, satire, news reporting, teaching, education, and research. Thank you for your attention to this matter...",
+    "aliases": ["fu", "fair", "fairuse"]
+  },
+  "g": {
+    "response": "ℹ️ YouTube Community Guidelines | 🔗 [https://support.google.com/youtube/answer/9288567](https://support.google.com/youtube/answer/9288567)",
+    "aliases": ["cg", "guide", "guidelines"]
+  },
+  "h": {
+    "response": "ℹ️ YouTube Hate Speech Policy | 🔗 [https://support.google.com/youtube/answer/2801939](https://support.google.com/youtube/answer/2801939)",
+    "aliases": ["hs", "hate", "speech"]
+  },
+  "m": {
+    "response": "🔇 Sound MUTED for PRIVACY and/or SECURITY. Please stand by... 🔇",
+    "aliases": ["mute", "muted", "priv", "privacy", "sec", "security"]
+  },
+  "r": {
+    "response": "⚠️ Please be respectful to others in this chat. Those determined to be disruptive are subject to timeouts or permanent removal from the chat.",
+    "aliases": ["respect"]
+  },
+  "share": {
+    "response": "↗️ Share this stream and channel with friends and family and on social media everywhere! | Thank you!",
+    "aliases": ["stream"]
+  },
+  "sp": {
+    "response": "⚠️ To keep the conversation readable, please refrain from repetitive posts, excessive capitalization, and emoji spam. Failure to follow these guidelines may lead to chat privileges being revoked.",
+    "aliases": ["spam"]
+  },  
+  "st": {
+    "response": "✅ Status check verified: You are authorized!",
+    "aliases": ["status", "verify", "access"]
+  },
+  "sub": {
+    "response": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, Set Notifications to All 🔔, and Super Chat 💵 | Thank you!",
+    "aliases": ["subscribe", "support"]
+  },
+  "subx": {
+    "response": "ℹ️ Support this channel! 🇺🇸 Press Thumbs Up 👍, Subscribe 🔔, and Set Notifications to All 🔔 | Thank you!",
+    "aliases": ["subscribex", "supportx"]
+  },
+  "t": {
+    "response": "⚠️ We are experiencing Technical Difficulties. Please stand by... ⚠️",
+    "aliases": ["tech", "issue", "buffer", "buffering"]
+  },
+
+  // General Commands requiring Argument(s)
+  "l": {
+    "response": "👍 $(1) Thumbs Up 👍 Smash that Like button! 👍 ...Let's Goooo! 🇺🇸",
+    "aliases": ["likes"]
+  },
+  "p": {
+    "response": "📢 Go follow $(1) | 📺 [https://www.youtube.com/$(1](https://www.youtube.com/$(1))",
+    "aliases": ["promo", "promote", "so", "shout", "shoutout"]
+  },  
+  "s": {
+    "response": "👥 $(1) Subscribers 👥 Smash that Subscribe button! 👥 ...Let's Goooo! 🇺🇸",
+    "aliases": ["subs", "subscribers"]
+  },
+  "w": {
+    "response": "👀 $(1) Watching 👀 ...Let's Goooo! 🇺🇸",
+    "aliases": ["watchers", "watching"]
+  },
+
+  // Streamer Shout-out Commands
+  "aa": {
+    "response": "📢 Apostate Ari / The Transphobic Historian 🇺🇸 | 📺 [https://www.youtube.com/@ApostateAri](https://www.youtube.com/@ApostateAri) | 💬 [https://x.com/ApostateAri](https://x.com/ApostateAri) | 🔗 [https://linktr.ee/transphobichistorian](https://linktr.ee/transphobichistorian)",
+    "aliases": ["ari", "th", "aa2"]
+  },
+  "aa$": {
+    "response": "💸 Support Apostate Ari / The Transphobic Historian 🇺🇸 | 💸 [https://cash.app/AriDetrans](https://cash.app/AriDetrans) | Thank you!",
+    "aliases": ["ari$", "th$"]
+  },
+  "af": {
+    "response": "📢 Adam Francisco 🇺🇸 | 📺 [https://www.youtube.com/@AdamFrancisco](https://www.youtube.com/@AdamFrancisco) | 💬 [https://x.com/adamfrancisco](https://x.com/adamfrancisco)_",
+    "aliases": ["adam", "francisco", "adamfrancisco", "af2", "af$"]
+  },
+  "am": {
+    "response": "📢 Axtell Media 🇺🇸 | 📺 [https://www.youtube.com/@AxtellMedia](https://www.youtube.com/@AxtellMedia) | 💬 [https://x.com/Axtell_Media](https://x.com/Axtell_Media) | 💸 [https://cash.app/Axtell2023](https://cash.app/Axtell2023) | 🔗 [https://linktr.ee/Axtell_Media](https://linktr.ee/Axtell_Media)",
+    "aliases": ["axtell", "am2", "am$"]
+  },
+  "ao": {
+    "response": "📢 The Angry Oregonian 🇺🇸 | 📺 [https://www.youtube.com/@theangryoregonian1776](https://www.youtube.com/@theangryoregonian1776) | 💸 [https://cash.app/theangryoregonian](https://cash.app/theangryoregonian) | 💸 [https://account.venmo.com/u/theangryoregonian](https://account.venmo.com/u/theangryoregonian)",
+    "aliases": ["angry"]
+  },
+  "ao$": {
+    "response": "💸 Support The Angry Oregonian 🇺🇸 | 💸 [https://cash.app/theangryoregonian](https://cash.app/theangryoregonian) | 💸 [https://account.venmo.com/u/theangryoregonian](https://account.venmo.com/u/theangryoregonian) | 🛒 [https://www.amazon.com/hz/wishlist/ls/1O4C8UH0LHVX0](https://www.amazon.com/hz/wishlist/ls/1O4C8UH0LHVX0) | Thank you!",
+    "aliases": ["angry$"]
+  },
+  "ao2": {
+    "response": "📣 The Angry Oregonian (More) 🇺🇸 | 📺 [https://www.youtube.com/@doggonahogg3607](https://www.youtube.com/@doggonahogg3607) | 🎶 [https://suno.com/@biggdoggsofftheporch](https://suno.com/@biggdoggsofftheporch)",
+    "aliases": ["angry2"]
+  },
+  "aos": {
+    "response": "🎶 Follow The Angry Oregonian on Suno! 🇺🇸 | 🎶 [https://suno.com/@biggdoggsofftheporch](https://suno.com/@biggdoggsofftheporch)",
+    "aliases": ["angrys", "angrymusic"]
+  },
+  "bcp": {
+    "response": "📢 TheBCPreacher (BCP) 🇺🇸 | 📺 [https://www.youtube.com/@TheBCPreacher](https://www.youtube.com/@TheBCPreacher) | 💬 [https://x.com/thebcpreacher](https://x.com/thebcpreacher) | 🔗 [https://linktr.ee/thebcpreacher](https://linktr.ee/thebcpreacher)",
+    "aliases": ["bc", "preacher", "thebcpreacher", "quincy", "bcp2", "bcp$"]
+  },
+  "br": {
+    "response": "📢 Black Rebel 🇺🇸 | 📺 [https://www.youtube.com/@SpaceForceUSA](https://www.youtube.com/@SpaceForceUSA)_ | 💬 [https://x.com/RealBlackRebel](https://x.com/RealBlackRebel)_ | 💸 [https://cash.app/SpaceForceUSA1](https://cash.app/SpaceForceUSA1)",
+    "aliases": ["blackrebel", "br2", "br$"]
+  },
+  "cc": {
+    "response": "📢 Conspiracookie 🇺🇸 | 📺 [https://www.youtube.com/@ConspiraCookie](https://www.youtube.com/@ConspiraCookie) | 💬 [https://x.com/Conspiracookie](https://x.com/Conspiracookie) | 💸 [https://www.shoutout.fans/conspiracookie](https://www.shoutout.fans/conspiracookie)",
+    "aliases": ["cookie", "conspiracookie", "cc$"]
+  },
+  "cc2": {
+    "response": "📣 Conspiracookie (More) 🇺🇸 | 🔗 [https://conspiracookie.com](https://conspiracookie.com) | 💬 [https://www.facebook.com/conspiracookie](https://www.facebook.com/conspiracookie) | 💬 [https://www.instagram.com/conspiracookie](https://www.instagram.com/conspiracookie) | 💬 [https://www.tiktok.com/@conspiracookie](https://www.tiktok.com/@conspiracookie)",
+    "aliases": ["cookie2", "conspiracookie2"]
+  },
+  "ch": {
+    "response": "📢 Cam Higby 🇺🇸 | 📺 [https://www.youtube.com/@CamHigby](https://www.youtube.com/@CamHigby) | 💬 [https://x.com/camhigby](https://x.com/camhigby)",
+    "aliases": ["cam", "higby", "camhigby", "ch$"]
+  },
+  "ch
