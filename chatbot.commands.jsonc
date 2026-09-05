@@ -453,7 +453,7 @@
 
   // Shout-out Template
   "xx": {
-    "response": "📢 XX 🇺🇸 | 📺 https://www.youtube.com/@MyChannel | 💬 https://x.com/MyX | 💸 https://cash.app/MyCahsApp | 🔗 https://linktr.ee/MyLinkTree | ✉ mailto:MyAddress@MyMailbox.com",
+    "response": "📢 XX 🇺🇸 | 📺 https://www.youtube.com/@MyChannel | 💬 https://x.com/MyX | 💸 https://cash.app/MyCashApp | 🔗 https://linktr.ee/MyLinkTree | ✉ mailto:MyAddress@MyMailbox.com",
     "aliases": ["xx2", "xx$"]
   }
 }
